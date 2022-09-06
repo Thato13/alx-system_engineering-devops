@@ -1,0 +1,2 @@
+#!/bin/bash
+sort < sorted_List | uniq -u
